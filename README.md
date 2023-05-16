@@ -1,6 +1,6 @@
-👋 Desenvolvedor Angular Sênior: Material, Bootstrap, TypeScript, RxJs, NgRx, teste unitário (Jasmine), consumo de API, microfrontend (Single spa), GraphQl, Apolo GraphQl, Chart.js, Apexcharts, SCSS, TailWind, Flexbox.
+Desenvolvedor Angular Sênior: Material, Bootstrap, TypeScript, RxJs, NgRx, teste unitário (Jasmine), consumo de API, microfrontend (Single spa), GraphQl, Apolo GraphQl, Chart.js, Apexcharts, SCSS, TailWind, Flexbox.
 
-Desenvolvedor Ionic: capacitor, stencil.js, iOS, Android.
+Desenvolvedor mobile Ionic: capacitor, stencil.js, iOS, Android.
 
 GIT, GitLab, Azure, AWS, Swagger, Postman, JWT, Heroku, Scrum.
 <!--
